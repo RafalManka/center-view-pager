@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rafal.manka/.android/build-cache/548e450a1221515463776123054d522b4a25c68b/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_c6ad56dfe19ca674ceed8653faa790b299b2773c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafal.manka/.android/build-cache/326ab016a9e13156d293a4d99fab85efdcfd14cf/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_1d862a09cb727e603dd6f7df3cf0b5770539c385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafal.manka/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_02fac2f4ebc03297e4e55bd8a27d1d466d240497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafal.manka/.android/build-cache/326ab016a9e13156d293a4d99fab85efdcfd14cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/build/intermediates/pre-dexed/debug/classes_bc0ea8991d851c0a0df514d0ce87747fc020f25a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafal.manka/.android/build-cache/548e450a1221515463776123054d522b4a25c68b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/build/intermediates/pre-dexed/debug/classes_9965d201b9e1d3ad6ac4664c0a7cc5c7c99921e9.jar" />
+    </item>
+
+</items>

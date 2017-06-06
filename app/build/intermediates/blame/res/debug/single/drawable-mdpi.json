@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rafal.manka/Development/CenterViewPager/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/rafal.manka/Development/CenterViewPager/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
