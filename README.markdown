@@ -1,7 +1,10 @@
-This sample Android app demonstrates
-how a `ViewPager` can show multiple pages at once.
+# Centre View Pager
 
-This app is covered in 
-[the chapter on advanced `ViewPager` techniques](https://commonsware.com/Android/previews/more-fun-with-pagers)
-in [*The Busy Coder's Guide to Android Development*](https://commonsware.com/Android/).
+This view pager will have all pages centered to the middle
+and pages to the right and to the left will not be clipped.
 
+# Comming soon
+
+RTL support
+
+Contributions are welcome, please create pull requests.
