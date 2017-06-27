@@ -23,8 +23,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.commonsware.android.mvp1.center_no_clip.CenterViewPager;
-import com.commonsware.android.mvp1.center_no_clip.PagerAdapter;
+import com.commonsware.android.mvp1.centrviewpager.CenterViewPager;
+import com.commonsware.android.mvp1.centrviewpager.PagerAdapter;
 
 import java.util.Random;
 

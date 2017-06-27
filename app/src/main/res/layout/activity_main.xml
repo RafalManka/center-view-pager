@@ -2,7 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.commonsware.android.mvp1.center_no_clip.CenterViewPager
+    <com.commonsware.android.mvp1.centrviewpager.CenterViewPager
         android:id="@+id/pager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/build/intermediates/res/merged/debug/layout/page.xml",
-        "source": "/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/src/main/res/layout/page.xml"
+        "merged": "/Users/rafal.manka/Development/tmp/CenterViewPager/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/rafal.manka/Downloads/cw-omnibus-master/ViewPager/MultiView1/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/rafal.manka/Development/CenterViewPager/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/rafal.manka/Development/CenterViewPager/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/rafal.manka/Development/CenterViewPager/app/build/intermediates/res/merged/debug/layout/page.xml",
-        "source": "/Users/rafal.manka/Development/CenterViewPager/app/src/main/res/layout/page.xml"
+        "merged": "/Users/rafal.manka/Development/tmp/CenterViewPager/app/build/intermediates/res/merged/debug/layout/page.xml",
+        "source": "/Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/res/layout/page.xml"
     }
 ]

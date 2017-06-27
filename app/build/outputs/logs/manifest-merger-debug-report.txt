@@ -1,59 +1,59 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:1:1-31:12
+ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:1:1-31:12
 	package
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:2:2-40
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:2:2-40
 	android:versionName
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:4:2-27
-		INJECTED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:4:2-27
+		INJECTED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:3:2-25
-		INJECTED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:3:2-25
+		INJECTED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:6:2-8:34
+ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:6:2-8:34
 MERGED from [com.android.support:support-v13:21.0.3] /Users/rafal.manka/.android/build-cache/326ab016a9e13156d293a4d99fab85efdcfd14cf/output/AndroidManifest.xml:15:5-43
 MERGED from [com.android.support:support-v4:21.0.3] /Users/rafal.manka/.android/build-cache/548e450a1221515463776123054d522b4a25c68b/output/AndroidManifest.xml:15:5-42
 	android:targetSdkVersion
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:8:3-32
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:8:3-32
 	android:minSdkVersion
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:7:3-29
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:7:3-29
 supports-screens
-ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:10:2-14:33
+ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:10:2-14:33
 	android:largeScreens
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:11:3-30
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:11:3-30
 	android:smallScreens
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:13:3-31
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:13:3-31
 	android:normalScreens
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:12:3-31
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:12:3-31
 	android:xlargeScreens
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:14:3-31
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:14:3-31
 application
-ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:16:2-29:16
+ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:16:2-29:16
 MERGED from [com.android.support:support-v13:21.0.3] /Users/rafal.manka/.android/build-cache/326ab016a9e13156d293a4d99fab85efdcfd14cf/output/AndroidManifest.xml:16:5-19
 MERGED from [com.android.support:support-v4:21.0.3] /Users/rafal.manka/.android/build-cache/548e450a1221515463776123054d522b4a25c68b/output/AndroidManifest.xml:16:5-19
 	android:label
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:18:3-35
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:18:3-35
 	android:icon
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:17:3-39
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:17:3-39
 	android:theme
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:19:3-34
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:19:3-34
 activity#com.commonsware.android.mvp1.MainActivity
-ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:20:3-28:14
+ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:20:3-28:14
 	android:label
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:22:4-47
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:22:4-47
 	android:name
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:21:4-32
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:21:4-32
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:23:4-27:20
+ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:23:4-27:20
 action#android.intent.action.MAIN
-ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:24:5-56
+ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:24:5-56
 	android:name
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:24:13-54
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:24:13-54
 category#android.intent.category.LAUNCHER
-ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:26:5-64
+ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:26:5-64
 	android:name
-		ADDED from /Users/rafal.manka/Development/CenterViewPager/app/src/main/AndroidManifest.xml:26:15-62
+		ADDED from /Users/rafal.manka/Development/tmp/CenterViewPager/app/src/main/AndroidManifest.xml:26:15-62
